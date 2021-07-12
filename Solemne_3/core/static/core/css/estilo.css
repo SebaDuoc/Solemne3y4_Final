@@ -1,0 +1,13 @@
+.card {
+    margin-top: 7%;
+}
+
+.carousel-inner{
+	max-height: 60vh;
+}
+
+.card{
+    max-width: 80vh;
+    margin-left: 2%;
+    margin-right: 2%;
+}
